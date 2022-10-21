@@ -10,4 +10,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html)](https://github.com/norisurgit/github-readme-stats)
 
 here's my real activity. You can't see it because most of repo's are private
-![image](https://user-images.githubusercontent.com/12083695/194677913-0df10f19-554c-4e8a-892e-80d2db92b848.png)
+![image](https://user-images.githubusercontent.com/12083695/197095678-66143c56-3b55-4fc0-a15f-b42da4b4dd37.png)
