@@ -8,7 +8,3 @@
 ### Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html)](https://github.com/norisurgit/github-readme-stats)
-
-here's my real activity. You can't see it because most of repo's are private
-![image](https://user-images.githubusercontent.com/12083695/202881290-2deb9b04-6201-47fc-b84f-3dbb6a8b7ca5.png)
-
